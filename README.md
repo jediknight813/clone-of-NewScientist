@@ -1,6 +1,6 @@
 this is a clone of NewScientist article made for the odin project.
 
-link to the odin project:
+link to the odin project: https://www.theodinproject.com/
 
 link to the website i made: 
 
