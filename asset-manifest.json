@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/NewScientist/static/css/main.40797c94.css",
-    "main.js": "/NewScientist/static/js/main.c2dcce21.js",
-    "static/media/GooglePlay.jpg": "/NewScientist/static/media/GooglePlay.ef14049245dd64e2bccf.jpg",
-    "index.html": "/NewScientist/index.html",
-    "main.40797c94.css.map": "/NewScientist/static/css/main.40797c94.css.map",
-    "main.c2dcce21.js.map": "/NewScientist/static/js/main.c2dcce21.js.map"
+    "main.css": "/clone-of-NewScientist/static/css/main.40797c94.css",
+    "main.js": "/clone-of-NewScientist/static/js/main.08353170.js",
+    "static/media/GooglePlay.jpg": "/clone-of-NewScientist/static/media/GooglePlay.ef14049245dd64e2bccf.jpg",
+    "index.html": "/clone-of-NewScientist/index.html",
+    "main.40797c94.css.map": "/clone-of-NewScientist/static/css/main.40797c94.css.map",
+    "main.08353170.js.map": "/clone-of-NewScientist/static/js/main.08353170.js.map"
   },
   "entrypoints": [
     "static/css/main.40797c94.css",
-    "static/js/main.c2dcce21.js"
+    "static/js/main.08353170.js"
   ]
 }
